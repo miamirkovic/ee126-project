@@ -1,6 +1,6 @@
 # Project: Digital Communication
 
-## Libraries: librosa, IPython.display, ffmpeg
+#### Library Installations
 
 ```pip install librosa```
 
